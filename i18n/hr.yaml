@@ -1,3 +1,6 @@
+global:
+  language: "HR"
+
 article:
   anchor_label: "Sidro"
   date: "{{ .Date }}"
@@ -21,6 +24,7 @@ article:
   part_of_series: "This article is part of a series."
   part: "Part"
   this_article: "This Article"
+  related_articles: "Related"
 
 author:
   byline_title: "Autor"
@@ -55,6 +59,7 @@ search:
 sharing:
   email: "Pošalji putem e-pošte"
   facebook: "Podijeli na Facebook"
+  line: "Podijeli na LINE"
   linkedin: "Podijeli na LinkedIn"
   pinterest: "Podijeli na Pinterest"
   reddit: "Objavi na Reddit"
